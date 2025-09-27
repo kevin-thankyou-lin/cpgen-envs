@@ -25,9 +25,9 @@ from cpgen_envs.environments.manipulation.nut_assembly import (
 from cpgen_envs.environments.manipulation.nut_assembly import (
     Square_D0 as Square_D0,
     Square_D1 as Square_D1,
-    Square_D2 as Square_D2,
+    # Square_D2 as Square_D2,
     SquareWide as SquareWide,
-    SquareReal as SquareReal
+    # SquareReal as SquareReal
 )
 from cpgen_envs.environments.manipulation.three_piece_assembly import (
     ThreePieceAssembly as ThreePieceAssembly,
